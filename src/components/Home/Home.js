@@ -19,7 +19,7 @@ const Home = () => {
         history.push(`/destination/${id}`);
     }
     return (
-        <div>
+        <div className="home-container">
             
             <div style={{ backgroundImage: `linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(${header})` }} className="home">
                 

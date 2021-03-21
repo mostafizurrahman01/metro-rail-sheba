@@ -11,7 +11,7 @@ const TicketCard = (props) => {
 
     return (
         <div className="ticket">
-            <Card className="bg-dark text-white ticket-card">
+            <Card className="bg-dark text-white ticket-card ">
                 <Card.Img src={img} alt="Card image" />
                 <Card.ImgOverlay>
                     <Card.Title className="ticket-title">{name}</Card.Title>
@@ -21,7 +21,7 @@ const TicketCard = (props) => {
                     <Card.Text className="ticket-footer">{price}</Card.Text>
                 </Card.ImgOverlay>
             </Card>
-        </div>
+        </div>      
 
     );
 };

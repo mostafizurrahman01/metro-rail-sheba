@@ -1,10 +1,9 @@
 import React from 'react';
-// import "./RiderCard.css";
 import Ticket from "../../images/tickets 3.png"
 import './DestinationDetails.css';
 
 const DestinationDetails = (props) => {
-    const { name} = props.selectedVehicle;
+    const { name} = props.selectedTicket;
     const {cost ,ticketNum} = props.tickets;
   
     return (

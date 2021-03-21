@@ -1,10 +1,28 @@
-
-.home{
+.home {
     margin-top: -750px;
     height: 750px;
     background-position: center center;
     background-size: 100% 100%;
-    width:100%;
+    width: 100%;
     display: flex;
+}
 
+@media(max-width:900px) {
+    .home {
+        margin: 20px auto;
+        display: grid;
+        grid-template-columns: repeat(3, 142px);
+    }
+} 
+
+@media(max-width:480px) {
+    .home {
+        margin: 20px auto;
+        display: grid;
+        grid-template-columns: repeat(1, 240px);
+        
+    }
+    .home-container {
+        height: 200vh;
+    }
 }

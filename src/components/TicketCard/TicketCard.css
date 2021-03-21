@@ -1,6 +1,6 @@
 .ticket-card{
     width: 210px;
-    height: 250px;
+    height: 150px;
     margin-left: 90px;
     font-size:18px;
     
@@ -9,13 +9,15 @@
     margin-top:25px;
     color:black;
     font-weight:800;
-    font-size:50px;
+    font-size:20px;
 
 }
 .button{
     margin-bottom: 900px;
 }
-
+.ticket-card img{
+    height:280px;
+}
 .ticket-footer{
     margin-top: 60px;
     font-weight: bold;
@@ -28,4 +30,12 @@
 .ticket{
     margin-top:220px;
     margin-left: 30px;
+}
+
+@media(min-width:480px){
+
+    .ticket-card{
+        width:150px;
+        height:100px;
+    }
 }

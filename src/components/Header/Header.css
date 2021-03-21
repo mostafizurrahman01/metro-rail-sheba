@@ -39,3 +39,13 @@
   .btn-modify{
     color:lightsalmon;
   }
+
+  @media(max-width:480px){
+      .header{
+        align-items: center;
+        display: grid;
+        position: absolute;
+        height: 25vh;      
+      }
+      
+  }

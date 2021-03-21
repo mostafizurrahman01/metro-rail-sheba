@@ -43,7 +43,7 @@ const Destination = () => {
 
     console.log(route);
     return (
-        <div className="container">
+        <div className="container" >
             
             <div className="search-div container">
                 {!searched &&
