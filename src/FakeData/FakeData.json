@@ -1,0 +1,35 @@
+{"metro" : [
+    {
+        "id":1,
+        "name": "ONE TIME TICKET",
+        "price": "৳100",
+        "img": "https://i.ibb.co/jGrj7MB/Group-33142.png",
+        "tickets": [{"cost":100,"ticketNum": "Ticket 1"},{"cost":90,"ticketNum": "Ticket 2"},{"cost":80,"ticketNum": "Ticket 3"}],
+        "key":"B016F3M89M"
+    },
+    {
+        "id":2,
+        "name": "ONE DAY PASS",
+        "price": "৳500",
+        "img": "https://i.ibb.co/Q9y1p44/Group-33143.png",
+        "tickets": [{"cost":500,"ticketNum": "Ticket 1"},{"cost":450,"ticketNum": "Ticket 2"},{"cost":370,"ticketNum": "Ticket 3"}],
+        "key":"B016F3M75M"
+    },
+    {
+       "id":3,
+        "name": "MONTHLY PASS",
+        "price": "৳1500",
+        "img": "https://i.ibb.co/1ZYFdtV/Group-33144.png",
+        "tickets": [{"cost":1500,"ticketNum": "Ticket 1"},{"cost":1450,"ticketNum": "Ticket 2"},{"cost":1350,"ticketNum": "Ticket 3"}],
+        "key":"B016F3M80M"
+    },
+    {
+        "id":4,
+        "name": "ANNUAL PASS",
+        "price": "৳9000",
+        "img": "https://i.ibb.co/g3HS3JS/Group-33145.png",
+        "tickets": [{"cost":9000,"ticketNum": "Ticket 1"},{"cost":8000,"ticketNum": "Ticket 2"},{"cost":7800,"ticketNum": "Ticket 3"}],
+        "key":"B016F3M9OM"
+    }
+    
+]}

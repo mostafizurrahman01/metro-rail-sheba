@@ -1,0 +1,40 @@
+.ticket-book {
+    margin: 10px 0;
+    width: 350px;
+    height: 60px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    border-left: 2px solid teal;
+    border-right: 1px solid teal;
+}
+
+.ticket-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cost-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ticket-info span {
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.Ticket img {
+    margin-top: 5px;
+    width: 30px;
+}
+
+.Ticket {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

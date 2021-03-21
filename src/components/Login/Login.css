@@ -1,0 +1,123 @@
+.login-container{
+    margin-top:-580px;
+    text-align:center;
+    margin-right: 200px;
+    border: 2px solid white;
+
+}
+.Login-Register{
+    box-shadow: 5px 5px 10px gray;
+    width:720px;
+    height: 600px;
+    margin-left: 250px;
+}
+.logo{
+    height: 50px;
+    margin-top: 60px;
+}
+.container1 img{
+    margin-top:-1400px;
+    margin-left: 105px;
+}
+
+.container1-title{
+    margin-top:-680px;
+    font-size:10px;
+    /* margin-left: 85px; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-container{
+    margin-top:20px;
+    text-align:center;
+    margin-right: 200px;
+   
+}
+.btn-login{
+    padding-left: 70px;
+    padding-right:70px;
+    color:white;
+    margin-top: -50px;
+    width:400px;
+}
+
+.btn-common-login{
+    text-decoration: none;
+    color: tomato;
+    background-color: white;
+    margin-top: -22px;
+    margin-left:180px;
+
+}
+.btn-common-create{
+    text-decoration: none;
+    color: tomato;
+    background-color: white;
+    margin-top: -22px;
+    margin-left:340px;
+
+}
+.Another-auth{
+    text-align: center;
+    margin-right: 230px;
+}
+.Another-auth button{
+    margin-top: -10px;
+    border-radius: 20px;
+}
+
+.formControl{
+    width:400px;
+}
+
+
+.email-label{
+    margin-right:300px;
+}
+.pass-label{
+    margin-right:330px;
+}
+.custom-control-label{
+    margin-right:270px;
+}
+.forgot-password{
+    margin-right: 150px;
+    margin-left: 220px;
+    margin-top: -40px;
+}
+
+.Login{
+    /* margin-right:380px; */
+    margin-bottom: 50px;
+}
+.create-account{
+    margin-top: 15px;
+    text-align: center;
+}
+.name-label{
+    margin-right:350px;
+    margin-top: 30px;
+}
+.confirm-label{
+    margin-right:270px;
+    margin-top: -10px;
+}
+.icon-size{
+    margin-right:20px;
+    margin-top:5px;
+}
+.icon-size2{
+    margin-right:10px;
+}
+.btn-text{
+    margin-bottom: -50px;
+    font-size: 20px;
+}
+.btn-modify{
+    margin-bottom: 30px;
+}
+.btn-modify2{
+    margin-top: 50px;
+}
+
+

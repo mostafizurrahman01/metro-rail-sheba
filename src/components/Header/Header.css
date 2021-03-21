@@ -1,0 +1,44 @@
+.header{
+    height: 750px;
+    /* background-position: center center;
+    background-size: 100% 100%; */
+    width:100%;
+
+}
+.header .logo{
+    height: 120px;
+    /* margin-right: 500px; */
+    margin-top: 20px;
+}
+.nav{
+    margin-left: 140px;    
+}
+.logo{
+     margin-right: 350px;
+}
+.nav li{
+    display: inline;
+    margin-left: 5px;
+  }
+  nav ul li {
+    list-style: none;
+    display:inline-block;
+    margin-right: 30px;
+  }
+  
+  .nav a{
+    text-decoration: none;
+    /* color: rgba(255, 255, 255, 0.877); */
+    font-weight: 600px;
+    color:lightsalmon;
+  }
+  .userName{
+    color:red;
+    font-weight: 500;
+    border-top: 2px solid teal;
+    border-bottom: 2px solid teal;
+    padding: 5px;
+  }
+  .btn-modify{
+    color:lightsalmon;
+  }
