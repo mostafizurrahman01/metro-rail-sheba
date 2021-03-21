@@ -7,7 +7,8 @@ import './Destination.css';
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
-const Destination = (props) => {
+const Destination = () => {
+    // const {key} = props.ticket;
     const [route, setRoute] = useState({
         from: "",
         to: ""
@@ -23,7 +24,7 @@ const Destination = (props) => {
         console.log(matchedData);
         setSelectedTicket(matchedData);
 
-    }, []);
+    }, [id]);
 
 
     const handleChange = (e) => {
