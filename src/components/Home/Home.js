@@ -7,13 +7,12 @@ import { useHistory } from 'react-router';
 
 
 const Home = () => {
-    // const {key} = props.ticket;
     const [ticket, setTicket] = useState([]);
 
     useEffect(() => {
 
         setTicket(FakeData.metro);
-    }, [ticket])
+    }, [])
 
     const history = useHistory()
     const handleTicket = (id) => {

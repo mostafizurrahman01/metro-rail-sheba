@@ -1,17 +1,14 @@
 .header{
     height: 750px;
-    /* background-position: center center;
-    background-size: 100% 100%; */
     width:100%;
 
 }
 .header .logo{
     height: 120px;
-    /* margin-right: 500px; */
     margin-top: 20px;
 }
 .nav{
-    margin-left: 140px;    
+    margin-left: 100px;    
 }
 .logo{
      margin-right: 350px;

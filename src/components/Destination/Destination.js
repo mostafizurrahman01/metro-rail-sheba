@@ -8,7 +8,6 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
 const Destination = () => {
-    // const {key} = props.ticket;
     const [route, setRoute] = useState({
         from: "",
         to: ""
