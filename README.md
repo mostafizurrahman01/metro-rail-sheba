@@ -1,8 +1,15 @@
-
 ***Metro Rail Seba!!
-This is the online service system. In this system, a user have to login first.
-Here, some login method like facebook and google. But there is some validation.
-No random user can not access. first they have to create a new account.
-password verification, email format should maintain.
 
-Live site link: https://metro-rail-sheba.web.app/
+live link: "https://metro-rail-sheba.web.app/"
+
+Hello,
+This is complete website app. On this website, there have some
+interesting features. Some of these features are :
+1. Home page,
+2. Destination Page,
+3. Authentication System, 
+4. Contact Page, 
+5. Route System,
+
+I have used a JavaScript framework React which is the most popular. Also, using CSS,
+BootStrap, Material UI etc.
